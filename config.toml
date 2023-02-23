@@ -1,4 +1,4 @@
-baseURL = "https://scassian.github.io/showcase"
+baseURL = "https://scassiano.github.io/showcase"
 languageCode = "en-us"
 title = "Showcase Template"
 theme = 'book'
